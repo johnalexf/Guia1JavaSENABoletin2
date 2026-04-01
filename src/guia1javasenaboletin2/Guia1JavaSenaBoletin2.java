@@ -17,20 +17,7 @@ public class Guia1JavaSenaBoletin2 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Escriba un numero");
-        Integer numero = Entrada.entero();
-        System.out.println(numero);
-        
-        
-        System.out.println("Escriba un texto");
-        String mensaje = Entrada.texto();
-        System.out.println(mensaje);
-        
-        
-        System.out.println("Escriba un caracter");
-        char caracter = Entrada.caracter();
-        System.out.println(caracter);
-        
+        Boletin2Ejercicio1.solucion();
     }
     
 }
