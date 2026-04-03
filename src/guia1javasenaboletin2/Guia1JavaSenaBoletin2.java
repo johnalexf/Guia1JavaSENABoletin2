@@ -23,7 +23,8 @@ public class Guia1JavaSenaBoletin2 {
         //Boletin2Ejercicio4.solucion();
         //Boletin2Ejercicio5.solucion();
         //Boletin2Ejercicio6.solucion();
-        Boletin2Ejercicio7.solucion();
+        //Boletin2Ejercicio7.solucion();
+        Boletin2Ejercicio8.solucion();
     }
     
 }
