@@ -34,7 +34,8 @@ public class Guia1JavaSenaBoletin2 {
         //Boletin2Ejercicio15.solucion();
         //Boletin2Ejercicio16.solucion();
         //Boletin2Ejercicio17.solucion();
-        Boletin2Ejercicio18.solucion();
+        //Boletin2Ejercicio18.solucion();
+        Boletin2Ejercicio19.solucion();
     }
     
 }

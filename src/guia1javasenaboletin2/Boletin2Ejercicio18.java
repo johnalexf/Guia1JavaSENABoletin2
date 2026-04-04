@@ -69,7 +69,7 @@ public class Boletin2Ejercicio18 {
         
         }
         
-        System.out.printf("%n%n El analisis de las 5 facturas es el siguiente: %n");
+        System.out.printf("%n%nEl analisis de las 5 facturas es el siguiente: %n");
         System.out.printf("Valor de facturacion total = %.2f %n", facturacionTotal);
         System.out.printf("Litros vendidos del articulo1 = %.2f %n", litrosVendidosArt1);
         System.out.printf("Facturas por encima de %.2f = %d %n%n", valorFacturaEvaluar, cantFacturasMayor);
